@@ -14,7 +14,7 @@ setup(
     description="Multiple Criteria Decision Making",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/tarunkv169/",
+    url="https://github.com/tarunkv169/topsis",
     author="Tarun kumar",
     author_email="tkumar_be22@thapar.edu",
     license="MIT",
