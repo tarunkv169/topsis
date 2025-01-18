@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="topsis-Tarun-102217133",
+    name="topsis-tarun-102217133",
     version="1.0.0",
     description="Multiple Criteria Decision Making",
     long_description=README,
